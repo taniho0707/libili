@@ -1,0 +1,11 @@
+{
+  "name": "libili-cnvtool",
+  "version": "1.0.0",
+  "description": "convert imagefile to binary",
+  "main": "cnvtool.js",
+  "dependencies": {
+    "canvas": "^2.1.0"
+  },
+  "devDependencies": {},
+  "author": "taniho"
+}
